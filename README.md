@@ -1,4 +1,4 @@
-# IAM Permissions Explorer (Option 3)
+# IAM Permissions Explorer
 
 **Made By:** Gaurav Sidharth Bharane  
 **LinkedIn:** https://linkedin.com/in/gaurav-bharane
